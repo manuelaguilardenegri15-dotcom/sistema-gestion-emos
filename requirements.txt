@@ -1,0 +1,6 @@
+streamlit
+pandas
+supabase
+google-genai
+pypdf
+openpyxl
